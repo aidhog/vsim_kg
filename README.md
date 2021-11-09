@@ -49,6 +49,6 @@ These movies correspond to:
 7. [Independence Day](https://www.wikidata.org/wiki/Q105387)
 8. [The Last Airbender](https://www.wikidata.org/wiki/Q11593)
 9. [Catwoman](https://www.wikidata.org/wiki/Q115760)
-10 [His Girl Friday](https://www.wikidata.org/wiki/Q1066714)
+10. [His Girl Friday](https://www.wikidata.org/wiki/Q1066714)
 
 In order of similarity.
