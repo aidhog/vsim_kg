@@ -23,7 +23,7 @@ Q116928,Q1066714
 
 where the left value is lower than the right value in string comparison.
 
-You can just remove the `Q116928`, leaving:
+Removing the `Q116928` and comma from each line leaves:
 
 ```
 Q60487
