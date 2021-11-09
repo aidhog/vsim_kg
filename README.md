@@ -6,7 +6,7 @@ We provide benchmark similarity lists for a sample of 100 movies extracted from 
 
 Within the folders for BestSimilar and Last.fm, you will find various files named `Qn.txt`, where `n` is a number and `Qn` is a Wikidata identifier. In there, you will find pairs of entities `Qa,Qb` such that `Qa > Qb` (in string similarity; used to deduplicate results) and `Qn = Qa` or `Qn = Qb`. The first line indicates the most similar pair involving `Qn`, the second line the second most similiar, and so forth.
 
-As an example, the file [BestSimilar/Q116928.txt](https://github.com/aidhog/vsim_kg/blob/datos/) corresponds to the top 10 most similar movies for [The Twilight Saga: New Moon](https://www.wikidata.org/wiki/Q116928). The contents are as follows:
+As an example, the file [BestSimilar/Q116928.txt](https://github.com/aidhog/vsim_kg/blob/datos/BestSimilar/Q116928.txt) corresponds to the top 10 most similar movies for [The Twilight Saga: New Moon](https://www.wikidata.org/wiki/Q116928). The contents are as follows:
 
 ```
 Q60487,Q116928
